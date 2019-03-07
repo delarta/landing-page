@@ -1,0 +1,14 @@
+:root{
+  --main-bg-color: #7800CB;
+  --btn-nav-color: #8530D0;
+  --btn-main-color: #FF3A8F;
+}
+
+nav{
+
+}
+
+#sec1{
+  min-height: 100vh;
+  background: var(--btn-main-color);
+}
